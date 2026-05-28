@@ -1,0 +1,7 @@
+"BehaviorSpace results (NetLogo 7.0.3)","Lists version 2.0"
+"elevator_sim.nlogox"
+"elevator_sim_experiment"
+"05/28/2026 13:28:43:186 +0800"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-15","15","-2","14"
+"[reporter]","[run number]","demand-chooser","medium-burst-fraction-slider","secondary-burst-fraction-slider","policy-chooser","[step]"
